@@ -5,16 +5,16 @@ int main ()
 {
     
     int ac,ed,an;
-   cout<<"ingrese el ano actual :";
+   cout<<"INGRESE AL ANIO ACTUAL :";
  
    cin>>ac;
    cout<<endl;
-   cout<<"ingrese tu edad :";
+   cout<<"INGRESE SU EDAD:";
    cin>>ed;
    
    an=ac-ed;
    cout<<endl;
-   cout<<"el ano en que naciste: "<<an;
+   cout<<"EL ANIO QUE NACISTE ES: "<<an;
    
   getch(); 
     

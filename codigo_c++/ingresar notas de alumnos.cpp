@@ -19,7 +19,7 @@ el promedio de las notas ( ingre 10 notas)*/
    
    for(i=0;i<10;i++)
    {
-    cout<<" ingrese la nota del alumno :";
+    cout<<" INGRESE LA NOTA DEL ALUMNO :";
     cin>> vec[i];              
    }
 
